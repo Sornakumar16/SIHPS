@@ -61,16 +61,16 @@ Ministry of Law and Justice
 
 ## Use Cases
 1. Case Scheduling
-     -Streamlined scheduling of hearings, ensuring efficient allocation of court resources.
+   -Streamlined scheduling of hearings, ensuring efficient allocation of court resources.
      
 2. Case File Management
-     -Centralized repository for storing and accessing relevant case documents.
+   -Centralized repository for storing and accessing relevant case documents.
      
 3. Hearing Notifications
-     -Automatic notifications to parties involved, reducing delays and missed hearings.
+   -Automatic notifications to parties involved, reducing delays and missed hearings.
      
-4.Virtual Hearings
-     -Integration with video conferencing tools for conducting virtual hearings. 
+4. Virtual Hearings
+   -Integration with video conferencing tools for conducting virtual hearings. 
      
 ## Technology Stack
 Frontend        -React
@@ -85,11 +85,11 @@ Deployment      -AWS, Heroku
 
 ## Dependencies
 1. Case Management System (CMS)
-            -Integration with existing CMS for case data retrieval and updates.
+   -Integration with existing CMS for case data retrieval and updates.
             
 2. Video Conferencing Platform
-            -Integration with a video conferencing platform for virtual hearings.
+   -Integration with a video conferencing platform for virtual hearings.
             
 3. Payment Gateway
-            -Integration for processing court fees and online payments.
+   -Integration for processing court fees and online payments.
 
