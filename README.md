@@ -63,10 +63,13 @@ These points cover the essential features and considerations for creating a comp
 ## Use Cases
 Case Scheduling
      Streamlined scheduling of hearings, ensuring efficient allocation of court resources.
+     
 Case File Management
      Centralized repository for storing and accessing relevant case documents.
+     
 Hearing Notifications
      Automatic notifications to parties involved, reducing delays and missed hearings.
+     
 Virtual Hearings
      Integration with video conferencing tools for conducting virtual hearings. 
      
@@ -84,8 +87,10 @@ Deployment      -AWS, Heroku
 ## Dependencies
 Case Management System (CMS)
             Integration with existing CMS for case data retrieval and updates.
+            
 Video Conferencing Platform
             Integration with a video conferencing platform for virtual hearings.
+            
 Payment Gateway
             Integration for processing court fees and online payments.
 
