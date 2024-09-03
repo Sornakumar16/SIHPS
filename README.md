@@ -53,7 +53,6 @@ Ministry of Law and Justice
     - Intuitive, responsive design.
     - Accessibility compliance for all users.
 
-These points cover the essential features and considerations for creating a comprehensive e-Portal for case management.
 
 
 ## Proposed Solution / Architecture Diagram
@@ -61,17 +60,17 @@ These points cover the essential features and considerations for creating a comp
 ![Screenshot 2024-09-03 162033](https://github.com/user-attachments/assets/ab437d97-476f-40f9-b834-51e5d7bb2bae)
 
 ## Use Cases
-Case Scheduling
-     Streamlined scheduling of hearings, ensuring efficient allocation of court resources.
+1. Case Scheduling
+     -Streamlined scheduling of hearings, ensuring efficient allocation of court resources.
      
-Case File Management
-     Centralized repository for storing and accessing relevant case documents.
+2. Case File Management
+     -Centralized repository for storing and accessing relevant case documents.
      
-Hearing Notifications
-     Automatic notifications to parties involved, reducing delays and missed hearings.
+3. Hearing Notifications
+     -Automatic notifications to parties involved, reducing delays and missed hearings.
      
-Virtual Hearings
-     Integration with video conferencing tools for conducting virtual hearings. 
+4.Virtual Hearings
+     -Integration with video conferencing tools for conducting virtual hearings. 
      
 ## Technology Stack
 Frontend        -React
@@ -85,12 +84,12 @@ Authentication  -JWT
 Deployment      -AWS, Heroku
 
 ## Dependencies
-Case Management System (CMS)
-            Integration with existing CMS for case data retrieval and updates.
+1. Case Management System (CMS)
+            -Integration with existing CMS for case data retrieval and updates.
             
-Video Conferencing Platform
-            Integration with a video conferencing platform for virtual hearings.
+2. Video Conferencing Platform
+            -Integration with a video conferencing platform for virtual hearings.
             
-Payment Gateway
-            Integration for processing court fees and online payments.
+3. Payment Gateway
+            -Integration for processing court fees and online payments.
 
