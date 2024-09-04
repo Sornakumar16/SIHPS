@@ -1,11 +1,11 @@
 # Smart India Hackathon Workshop
 
 
-# Date: 03-09-2024
+# Date: 04/09/2024
 
-## Register Number: 212223040087
+## Register Number: 212223230210
 
-## Name: KARTHICKKUMAR R
+## Name: SORNAKUMAR .S
 
 ## Problem Title
 Development of e-Portal for facilitating Case Management Hearing of various types of cases
